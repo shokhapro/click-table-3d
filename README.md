@@ -7,4 +7,5 @@ Instead of a traditional 2d table ..
 now the company can see all the load of workers in a 3d cube.
 
 <img src="https://github.com/user-attachments/assets/b3086ac0-434d-483e-8b05-1dcf2516014d" width="540">
+
 <img src="https://github.com/user-attachments/assets/7142b997-5e85-46e7-b50f-6c092bc07572" width="240">
