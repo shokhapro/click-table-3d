@@ -8,3 +8,4 @@ now the company can see all the load of workers in a 3d cube.
 
 ![photo_2024-12-20_01-31-11](https://github.com/user-attachments/assets/b3086ac0-434d-483e-8b05-1dcf2516014d)
 
+![photo_2024-12-20_01-25-40](https://github.com/user-attachments/assets/7142b997-5e85-46e7-b50f-6c092bc07572)
